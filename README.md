@@ -1,4 +1,4 @@
-## 片上 裕貴 / Yuki Katakami
+##  Yuki Katakami
 
 福岡のIT企業でシステム運用部の課長をしています。
 8年以上のIT運用経験を土台に、生成AI（Claude Code）を業務に組み込む実装と
